@@ -1,3 +1,20 @@
 {
-    "users": []
+    "users": [
+        {
+          "id": 1,
+          "name": "admin",
+          "phone": "0912345678",
+          "email": "admin@gmail.com",
+          "password": "123456",
+          "role": "admin"
+        },
+        {
+          "email": "user@gmail.com",
+          "password": "0000",
+          "phone": "0958783183",
+          "name": "user",
+          "id": 2,
+          "role": "user"
+        },
+    ]
 }
